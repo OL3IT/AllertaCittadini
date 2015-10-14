@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+	</head>
+	<body>				
+<div id="container">
+	
+<div align="left" style="padding:50px;">
+<p><h1 style="margin-bottom:20px;border-bottom:1px black solid;">Pannello Allerta !!!</h1></p>
+<table>
+	<tr>
+		<td>
+			<b>TEST</b> <br/>
+			<br/>
+				<form method="post" action="servizi/inviaMessaggiBot.php">	
+					<input type="submit" name="terremototest" value="Terremoto">
+				</form>
+			<br/><br/>
+				<form method="post" action="servizi/inviaMessaggiBot.php">
+					<input type="submit" name="alluvionetest" value="Alluvione">
+				</form>
+			<br/><br/>
+				<form method="post" action="servizi/inviaMessaggiBot.php">
+					<input type="submit" name="grandinetest" value="Grandine">
+				</form>
+			<br/>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
+</div>
+</div>
+</body>
+</html>
+		
