@@ -1,6 +1,8 @@
 # AllertaCittadini
 Il servizio Allerta Cittadini invia un messaggio istantaneo ad un gran numero di contatti!
 
+https://ol3.dtdns.net/allertacittadini/
+
 Premessa
 Con in progetto MESIST la nostra associazione ha approfondito l'esigenza di dotare la Pubblica
 Amministrazione (dotazione obbligatoria secondo la legge ) di uno strumento che vada a soddisfare
